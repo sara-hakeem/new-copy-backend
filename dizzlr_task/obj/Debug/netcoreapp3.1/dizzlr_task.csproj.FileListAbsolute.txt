@@ -177,6 +177,7 @@ C:\Users\Sara Hakeem\source\repos\dizzlr_task\dizzlr_task\bin\Debug\netcoreapp3.
 C:\Users\Sara Hakeem\source\repos\dizzlr_task\dizzlr_task\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
 C:\Users\Sara Hakeem\source\repos\dizzlr_task\dizzlr_task\bin\Debug\netcoreapp3.1\Humanizer.dll
 C:\Users\Sara Hakeem\source\repos\dizzlr_task\dizzlr_task\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Sara Hakeem\source\repos\dizzlr_task\dizzlr_task\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
 C:\Users\Sara Hakeem\source\repos\dizzlr_task\dizzlr_task\obj\Debug\netcoreapp3.1\dizzlr_task.csproj.CoreCompileInputs.cache
 C:\Users\Sara Hakeem\source\repos\dizzlr_task\dizzlr_task\obj\Debug\netcoreapp3.1\dizzlr_task.MvcApplicationPartsAssemblyInfo.cs
 C:\Users\Sara Hakeem\source\repos\dizzlr_task\dizzlr_task\obj\Debug\netcoreapp3.1\dizzlr_task.MvcApplicationPartsAssemblyInfo.cache

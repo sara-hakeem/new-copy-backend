@@ -1,10 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "3LzvdVoum78pesiDfq1b3uA3QAAijgz2nUILciijYI7kJ50714ZYbstIAucQ9eZrb+LjfwbJTmI4eh70e/Vq3A==",
+  "dgSpecHash": "yg1lFcRI2TCNQN+RU8BusMkSFyYyw5ithk+RtARmO0PTvvsafRyyfWq74wsAAMu7qaVW78jvQS7vgOBPLJFZVA==",
   "success": true,
   "projectFilePath": "C:\\Users\\Sara Hakeem\\source\\repos\\dizzlr_task\\dizzlr_task\\dizzlr_task.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Sara Hakeem\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
+    "C:\\Users\\Sara Hakeem\\.nuget\\packages\\microsoft.aspnetcore.authentication.jwtbearer\\3.1.12\\microsoft.aspnetcore.authentication.jwtbearer.3.1.12.nupkg.sha512",
     "C:\\Users\\Sara Hakeem\\.nuget\\packages\\microsoft.aspnetcore.html.abstractions\\2.2.0\\microsoft.aspnetcore.html.abstractions.2.2.0.nupkg.sha512",
     "C:\\Users\\Sara Hakeem\\.nuget\\packages\\microsoft.aspnetcore.razor\\2.2.0\\microsoft.aspnetcore.razor.2.2.0.nupkg.sha512",
     "C:\\Users\\Sara Hakeem\\.nuget\\packages\\microsoft.aspnetcore.razor.language\\3.1.0\\microsoft.aspnetcore.razor.language.3.1.0.nupkg.sha512",
